@@ -75,3 +75,7 @@ La caja virtual es compatible con una amplia variedad de sistemas operativos:
 
 *   [virtualbox.org](https://www.virtualbox.org)
 *   [Cómo configurar un entorno local de Linux con vagrant](https://medium.com/@JohnFoderaro/how-to-set-up-a-local-linux-environment-with-vagrant-163f0ba4da77)
+
+### Cursos Avazados:
+
+*   [Curso de VirtualBox + Certificado](https://www.udemy.com/curso-de-virtualbox/)
