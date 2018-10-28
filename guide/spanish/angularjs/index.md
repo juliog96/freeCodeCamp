@@ -26,3 +26,8 @@ HTML:
 ```
 
 html
+
+## Cursos Avanzados
+
+*   [Curso Angular.js Avanzado + Certificado](https://devcode.la/cursos/angularjs-avanzado/)
+*   [Curso de AngularJS en Español - Aprende Fácilmente](https://www.udemy.com/aprende-angularjs-facilmente/)
