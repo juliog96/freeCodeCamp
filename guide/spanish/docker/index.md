@@ -1,8 +1,8 @@
 ---
 title: Docker
-localeTitle: Estibador
+localeTitle: Docker
 ---
-## Estibador
+## Docker
 
 Docker es una plataforma abierta para construir, enviar y ejecutar aplicaciones distribuidas. Está escrito en ir. Se lanzó por primera vez en 2013 y está desarrollado por Docker, Inc.
 
@@ -34,3 +34,8 @@ curl -fsSL https://get.docker.com -o get-docker.sh
 *   Para descargar y documentación, visite el sitio oficial de docker: el [sitio oficial de Docker](https://www.docker.com)
 *   Para más información sobre la contenedorización, consulte [Operaciones de TI de búsqueda.](https://searchitoperations.techtarget.com/definition/application-containerization-app-containerization)
 *   Un Docker 101 curso [Docker 101](https://github.com/docker/labs/tree/master/beginner/)
+
+### Cursos Avanzados:
+
+*   [Curso de Docker: todo lo necesario para dominarlo](https://www.udemy.com/curso-de-docker)
+*   [Docker y Kubernetes: desarrollo y despliegue de aplicaciones basadas en contenedores](https://www.campusmvp.es/catalogo/Product-Docker-y-Kubernetes-desarrollo-y-despliegue-de-aplicaciones-basadas-en-contenedores_237.aspx)
